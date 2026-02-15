@@ -11,7 +11,7 @@ Backend Engineer specializing in **Java SpringBoot based distributed systems** w
 I work at the intersection of **Scalable Backend Systems + LLM Applications** — designing reliable architectures and integrating AI into real business workflows.
 
 * 3+ Years Backend Engineering Experience
-* Built and maintained 80+ production REST APIs
+* Experienced in AI Integration in Legacy Applications
 * Designed event‑driven microservices handling enterprise workflows
 * Integrated LLM powered automation and conversational systems
 
