@@ -61,12 +61,7 @@ SOLID Principles • OOP Design • Agile • SDLC • Code Reviews • System D
 
 ## Software Engineer — Ultimate Kronos Group
 
-* Built cross‑platform enterprise bots (Slack, Teams, Google Chat) integrating external systems
-* Developed SpringBoot notification microservice using async event processing
-* Implemented centralized authentication & SSO improving login performance by 60%
-* Integrated Claude LLM for multi‑turn conversational workflows (95% intent accuracy)
-* Designed scalable APIs used by 1000+ enterprise users
-* Mentored junior developers and improved review efficiency
+* Focus on Backend Engineering along with Distributed Systems Knowledge
 
 ---
 
