@@ -1,87 +1,144 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=root@hellovishal:~$+whoami;Backend+Engineer+(3+YOE);Distributed+Systems+%26+AI+Infra;SpringBoot+%7C+Kafka+%7C+LLM+%7C+RAG;Building+reliable+systems+at+scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=root@hellovishal:~$+whoami;Backend+Engineer;Java+SpringBoot+Specialist;Distributed+Systems+%7C+Kafka+%7C+Microservices;Python+%7C+GenAI+%7C+RAG+%7C+VectorDB" />
 </p>
 
 ---
 
-# 🧠 > about_me.sh
+# 🧠 About Me
 
-```bash
-name="Vishal Kumar"
-role="Backend Engineer (3 Years Experience)"
-specialization="Distributed Systems + AI Integrations"
-current_work="Enterprise Workforce Management Platform"
-interests="System Design, Event Driven Architecture, LLM Applications"
-```
+Backend Engineer specializing in **Java SpringBoot based distributed systems** with production experience building enterprise APIs, event‑driven microservices and AI powered workflows.
 
-* Building scalable backend services used by enterprise users
-* Designing fault tolerant event‑driven architectures
-* Developing conversational AI & workflow automation
-* Optimizing authentication, performance & reliability
+I work at the intersection of **Scalable Backend Systems + LLM Applications** — designing reliable architectures and integrating AI into real business workflows.
+
+* 3+ Years Backend Engineering Experience
+* Built and maintained 80+ production REST APIs
+* Designed event‑driven microservices handling enterprise workflows
+* Integrated LLM powered automation and conversational systems
 
 ---
 
-# 🧰 > tech_stack --list
+# 🧰 Tech Stack
 
 ## Languages
 
-Java • Python • JavaScript • C++
+Java • Python • JavaScript • C/C++ • HTML/CSS
 
 ## Backend & Frameworks
 
-Spring Boot • FastAPI • NodeJS
+Spring Boot • FastAPI • NodeJS • REST APIs • Microservices • Apache Tomcat
 
-## Databases & Infra
+## Databases & Storage
 
-MySQL • MongoDB • Redis • Docker • Kubernetes • GCP
+MySQL • MongoDB • Redis • Vector Databases
 
-## Distributed Systems
+## Distributed Systems & Architecture
 
-Kafka • Microservices • Saga Pattern • Event Driven Systems
+Kafka • Event Driven Architecture • Saga Pattern • Idempotency • Async Processing • Retry & DLQ Handling • Exactly Once Processing
 
-## AI Engineering
+## AI / GenAI Engineering
 
-LLM • RAG • Vector Databases
+LLM Integration • RAG Pipelines • Conversational AI • NLU Workflows • Ollama • Claude LLM • Prompt Engineering
 
----
+## DevOps & Infrastructure
 
-# ⚙️ > experience.log
+Docker • Kubernetes • GCP • CI/CD Pipelines • GitHub Actions • Maven • Gradle
 
-Company: UKG (Ultimate Kronos Group)
-Role: Software Engineer
-Duration: Jul 2023 – Present
+## Observability & Tools
 
-* Built 80+ REST APIs powering enterprise workflows
-* Developed notification microservice using async event processing
-* Implemented centralized authentication & SSO (Auth0 + OpenAM)
-* Integrated LLM powered conversational automation
-* Built cross‑platform bots (Slack, Teams, Google Chat)
-* Mentored junior engineers & improved review efficiency
+Prometheus • Postman • Jira • LaunchDarkly • Pendo
 
----
+## Security & Auth
 
-# 🚀 > notable_project --distributed_transaction_platform
+Auth0 • OpenAM • OAuth • SSO • IAM
 
-* Kafka based microservices coordinated via Saga pattern
-* Exactly‑once processing using idempotency keys + transactional DB
-* RAG powered intelligence layer with self‑hosted LLM
-* Retry, DLQ, replayable streams & reliability guarantees
+## Engineering Practices
+
+SOLID Principles • OOP Design • Agile • SDLC • Code Reviews • System Design
 
 ---
 
-# 🏆 > achievements.log
+# 💼 Experience & Applied Projects
 
-* Solved 750+ DSA problems
-* LeetCode rating ~1900 (Top ~4%)
-* Strong system design & algorithmic problem solving
+## Software Engineer — Ultimate Kronos Group
+
+* Built cross‑platform enterprise bots (Slack, Teams, Google Chat) integrating external systems
+* Developed SpringBoot notification microservice using async event processing
+* Implemented centralized authentication & SSO improving login performance by 60%
+* Integrated Claude LLM for multi‑turn conversational workflows (95% intent accuracy)
+* Designed scalable APIs used by 1000+ enterprise users
+* Mentored junior developers and improved review efficiency
 
 ---
 
-# 🌐 > contact --init
+## Applied ML & Computer Vision Projects
+
+### OMR Automated Grading System
+
+* Automated evaluation of OMR answer sheets using image processing
+* Reduced manual grading effort and improved evaluation accuracy
+* Built detection pipeline for answer bubbles and scoring logic
+
+### Endometrial Cancer Detection (Hybrid Deep Learning Approach)
+
+* Medical image classification using transfer learning models
+* Combined feature extraction with hybrid classification pipeline
+* Improved diagnostic prediction performance using deep learning
+
+---
+
+# 🚀 Notable Project — Distributed Transaction Intelligence Platform
+
+A fault tolerant transaction processing platform built using microservices and AI analytics.
+
+**Architecture Highlights**
+
+* Kafka based event streaming
+* Saga pattern orchestration
+* Redis idempotency keys for exactly once processing
+* Transactional database consistency
+* Retry, DLQ & replayable streams
+
+**AI Layer**
+
+* Self hosted LLM via Ollama
+* Vector DB powered RAG analytics
+* Transaction intelligence & insights generation
+
+---
+
+# 🏆 Achievements
+
+* 750+ DSA problems solved
+* 1900+ LeetCode rating (Top ~4%)
+* Strong problem solving & system design skills
+
+---
+
+# 📊 GitHub Activity & Consistency
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hellovishal&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellovishal&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 LeetCode Consistency
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/hellovishal?theme=dark&font=Fira+Code&ext=heatmap"/>
+</p>
+
+---
+
+# 🌐 Connect
 
 GitHub: [https://github.com/hellovishal](https://github.com/hellovishal)
-Collab: backend systems | distributed systems | AI infra
 
 ---
 
-> "First make it work. Then make it scalable. Then make it elegant."
+> Building reliable systems > writing clever code
