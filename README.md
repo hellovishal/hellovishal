@@ -1,198 +1,125 @@
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ whoami
+# 👋 Hi, I'm Vishal Kumar
 
+<div align="center">
+
+# ⚡ Backend Engineer • Distributed Systems • Agentic AI
+
+Building **high-throughput backend platforms**, **event-driven microservices**, and **AI-powered systems**.
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;Distributed+Systems+Enthusiast;Building+Agentic+AI+Platforms;Kafka+%7C+Spring+Boot+%7C+Redis+%7C+RAG)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hellovishal&style=for-the-badge&color=blueviolet)
+
+</div>
+
+---
+
+## 🚀 Recruiter Snapshot
+
+| 💼 Role | Software Engineer @ UKG |
+|---|---|
+| 🧠 Expertise | Java • Spring Boot • Kafka • Distributed Systems • Agentic AI |
+| 🏆 Coding | LeetCode Knight • Peak 1900+ • Top ~4% |
+| 📈 APIs | 80+ Production REST APIs |
+| ⚙ Reliability | 99.9% Uptime • 92% Test Coverage |
+| 👨‍🏫 Leadership | Mentored 5+ Engineers |
+
+> **LeetCode Knight (1900+ Peak, Top 4% Globally) • 1000+ DSA Problems Solved**
+
+---
+
+## 💻 Terminal
+
+```bash
+$ whoami
 Vishal Kumar
 
-Backend Engineer | Distributed Systems Enthusiast | AI Engineering Explorer
-
-```
-
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ cat about.txt
-
+$ current_role
 Software Engineer @ UKG
 
-• Building production-grade Java microservices
-• Designing scalable distributed systems
-• Kafka • Redis • Spring Boot • OAuth2
-• Event Driven Architecture
-• CI/CD • Kubernetes
-• Exploring Agentic AI, RAG & MCP
-
-Passionate about writing systems that scale,
-remain observable, and survive production traffic.
-```
-
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ ls skills/
-
-Java
-Spring Boot
-Kafka
-Redis
-MySQL
-MongoDB
-Docker
-Kubernetes
-OAuth2
-Auth0
-OpenAM
-GitHub Actions
-Jenkins
-JUnit
-Mockito
-GCP
-REST APIs
-Microservices
+$ focus
+Backend Engineering
 Distributed Systems
-LLMs
+Agentic AI
+Kafka
 RAG
-VectorDB
-MCP
+Microservices
+
+$ status
+Building production systems today,
+engineering AI infrastructure for tomorrow.
 ```
 
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ ps -ef
+## 🧠 Core Expertise
 
-PID     PROCESS
-1001    Building scalable backend systems
-1002    Designing event-driven architectures
-1003    Solving LeetCode problems
-1004    Learning distributed systems
-1005    Building AI agents
-1006    Reading system design papers
-1007    Drinking coffee ☕
-```
+- Event-driven microservices using Kafka
+- Authentication & SSO with Auth0/OpenAM
+- Multi-tenant backend architecture
+- RAG + VectorDB + MCP
+- Redis-backed idempotency
+- CI/CD with GitHub Actions & Jenkins
 
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ history
+## 🛠 Tech Stack
 
-✓ Built Authentication Platform (Auth0 + OpenAM)
-✓ Built Notification Microservice
-✓ Built Credential Management Platform
-✓ Built Cross Platform Bot Integrations
-✓ Built Distributed Transaction Intelligence Platform
-✓ Mentored Junior Developers
-✓ 99.9% Production Uptime
-✓ 80+ Production REST APIs
-```
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ achievements
+### Backend
+Spring Boot • Kafka • Redis • REST APIs • OAuth2
 
-🏆 LeetCode Knight
-⭐ Peak Rating : 1900+
-🌍 Top 4% Globally
-💯 1000+ Problems Solved
-```
+### AI
+RAG • Ollama • MCP • VectorDB
+
+### DevOps
+Docker • Kubernetes • Jenkins • GitHub Actions • GCP
 
 ---
 
-# Current Mission
+## 📌 Featured Projects
 
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ echo $CURRENT_FOCUS
+### Distributed Transaction Intelligence Platform
 
-Building production-ready AI Backend Systems
+- Kafka Saga Architecture
+- Exactly-once Processing
+- Redis Idempotency
+- VectorDB + RAG
+- Ollama Integration
 
-Learning:
+### Endometrial Cancer Detection
 
-• Multi-Agent Systems
-• Memory Architectures
-• Distributed AI
-• Kubernetes
-• System Design
-• LLM Infrastructure
+- TensorFlow
+- DenseNet201
+- InceptionV3
+- OpenCV
+
+---
+
+## 📈 GitHub Dashboard
+
+Replace `hellovishal` with your username if needed.
+
+```md
+![Stats](https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=hellovishal&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellovishal&layout=compact&theme=tokyonight)
 ```
 
----
+Contribution Snake:
 
-# Tech Stack
+https://github.com/Platane/snk
 
-<p align="center">
+Activity Graph:
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,docker,kubernetes,git,github,linux,jenkins,gcp,cpp,python,vscode" />
-
-</p>
+https://github-readme-activity-graph.vercel.app/
 
 ---
 
-# GitHub Analytics
+## 📫 Connect
 
-<p align="center">
+- GitHub: https://github.com/hellovishal
+- LeetCode: https://leetcode.com/codewithvishal05
+- Email: rvrajvishalqwer@gmail.com
+- LinkedIn: <your-link>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hellovishal&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellovishal&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellovishal&theme=github-compact"/>
-
-</p>
-
----
-
-# Currently Exploring
-
-```text
-█████████████████████░░░░░  Java Backend
-
-████████████████████░░░░░░  Distributed Systems
-
-███████████████████░░░░░░░  Kafka Ecosystem
-
-██████████████████░░░░░░░░  Kubernetes
-
-████████████████░░░░░░░░░░  AI Agents
-
-███████████████░░░░░░░░░░░  MCP
-
-██████████████░░░░░░░░░░░░  RAG
-
-█████████████░░░░░░░░░░░░░  Memory Systems
-```
-
----
-
-# Connect
-
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ links
-
-GitHub    : https://github.com/hellovishal
-LeetCode  : https://leetcode.com/codewithvishal05
-Email      : rvrajvishalqwer@gmail.com
-LinkedIn   : [(Add your LinkedIn URL)](https://www.linkedin.com/in/vishal-kumar-r-644a101ba/)
-```
-
----
-
-```bash
-┌──(vishal㉿backend)-[~/]
-└─$ exit
-
-Thanks for stopping by.
-
-Happy Coding :)
-```
