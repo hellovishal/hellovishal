@@ -1,125 +1,139 @@
-# 👋 Hi, I'm Vishal Kumar
-
-<div align="center">
-
-# ⚡ Backend Engineer • Distributed Systems • Agentic AI
-
-Building **high-throughput backend platforms**, **event-driven microservices**, and **AI-powered systems**.
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;Distributed+Systems+Enthusiast;Building+Agentic+AI+Platforms;Kafka+%7C+Spring+Boot+%7C+Redis+%7C+RAG)
-
-![Profile Views](https://komarev.com/ghpvc/?username=hellovishal&style=for-the-badge&color=blueviolet)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=root@hellovishal:~$+whoami;Backend+Engineer;Java+SpringBoot+Specialist;Distributed+Systems+%7C+Kafka+%7C+Microservices;Python+%7C+GenAI+%7C+RAG+%7C+VectorDB" />
+</p>
 
 ---
 
-## 🚀 Recruiter Snapshot
+# 🧠 About Me
 
-| 💼 Role | Software Engineer @ UKG |
-|---|---|
-| 🧠 Expertise | Java • Spring Boot • Kafka • Distributed Systems • Agentic AI |
-| 🏆 Coding | LeetCode Knight • Peak 1900+ • Top ~4% |
-| 📈 APIs | 80+ Production REST APIs |
-| ⚙ Reliability | 99.9% Uptime • 92% Test Coverage |
-| 👨‍🏫 Leadership | Mentored 5+ Engineers |
+Backend Engineer specializing in **Java SpringBoot based distributed systems** with production experience building enterprise APIs, event‑driven microservices and AI powered workflows.
 
-> **LeetCode Knight (1900+ Peak, Top 4% Globally) • 1000+ DSA Problems Solved**
+I work at the intersection of **Scalable Backend Systems + LLM Applications** — designing reliable architectures and integrating AI into real business workflows.
 
----
-
-## 💻 Terminal
-
-```bash
-$ whoami
-Vishal Kumar
-
-$ current_role
-Software Engineer @ UKG
-
-$ focus
-Backend Engineering
-Distributed Systems
-Agentic AI
-Kafka
-RAG
-Microservices
-
-$ status
-Building production systems today,
-engineering AI infrastructure for tomorrow.
-```
-
-## 🧠 Core Expertise
-
-- Event-driven microservices using Kafka
-- Authentication & SSO with Auth0/OpenAM
-- Multi-tenant backend architecture
-- RAG + VectorDB + MCP
-- Redis-backed idempotency
-- CI/CD with GitHub Actions & Jenkins
-
-## 🛠 Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-### Backend
-Spring Boot • Kafka • Redis • REST APIs • OAuth2
-
-### AI
-RAG • Ollama • MCP • VectorDB
-
-### DevOps
-Docker • Kubernetes • Jenkins • GitHub Actions • GCP
+* 3+ Years Backend Engineering Experience
+* Experienced in AI Integration in Legacy Applications
+* Designed event‑driven microservices handling enterprise workflows
+* Integrated LLM powered automation and conversational systems
 
 ---
 
-## 📌 Featured Projects
+# 🧰 Tech Stack
 
-### Distributed Transaction Intelligence Platform
+## Languages
 
-- Kafka Saga Architecture
-- Exactly-once Processing
-- Redis Idempotency
-- VectorDB + RAG
-- Ollama Integration
+Java • Python • JavaScript • C/C++ • HTML/CSS
 
-### Endometrial Cancer Detection
+## Backend & Frameworks
 
-- TensorFlow
-- DenseNet201
-- InceptionV3
-- OpenCV
+Spring Boot • FastAPI • NodeJS • REST APIs • Microservices • Apache Tomcat
+
+## Databases & Storage
+
+MySQL • MongoDB • Redis • Vector Databases
+
+## Distributed Systems & Architecture
+
+Kafka • Event Driven Architecture • Saga Pattern • Idempotency • Async Processing • Retry & DLQ Handling • Exactly Once Processing
+
+## AI / GenAI Engineering
+
+LLM Integration • RAG Pipelines • Conversational AI • NLU Workflows • Ollama • Claude LLM • Prompt Engineering
+
+## DevOps & Infrastructure
+
+Docker • Kubernetes • GCP • CI/CD Pipelines • GitHub Actions • Maven • Gradle
+
+## Observability & Tools
+
+Prometheus • Postman • Jira • LaunchDarkly • Pendo
+
+## Security & Auth
+
+Auth0 • OpenAM • OAuth • SSO • IAM
+
+## Engineering Practices
+
+SOLID Principles • OOP Design • Agile • SDLC • Code Reviews • System Design
 
 ---
 
-## 📈 GitHub Dashboard
+# 💼 Experience & Applied Projects
 
-Replace `hellovishal` with your username if needed.
+## Software Engineer — Ultimate Kronos Group
 
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=hellovishal&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellovishal&layout=compact&theme=tokyonight)
-```
-
-Contribution Snake:
-
-https://github.com/Platane/snk
-
-Activity Graph:
-
-https://github-readme-activity-graph.vercel.app/
+* Focus on Backend Engineering along with Distributed Systems Knowledge
 
 ---
 
-## 📫 Connect
+## Applied ML & Computer Vision Projects
 
-- GitHub: https://github.com/hellovishal
-- LeetCode: https://leetcode.com/codewithvishal05
-- Email: rvrajvishalqwer@gmail.com
-- LinkedIn: <your-link>
+### OMR Automated Grading System
 
+* Automated evaluation of OMR answer sheets using image processing
+* Reduced manual grading effort and improved evaluation accuracy
+* Built detection pipeline for answer bubbles and scoring logic
+
+### Endometrial Cancer Detection (Hybrid Deep Learning Approach)
+
+* Medical image classification using transfer learning models
+* Combined feature extraction with hybrid classification pipeline
+* Improved diagnostic prediction performance using deep learning
+
+---
+
+# 🚀 Notable Project — Distributed Transaction Intelligence Platform
+
+A fault tolerant transaction processing platform built using microservices and AI analytics.
+
+**Architecture Highlights**
+
+* Kafka based event streaming
+* Saga pattern orchestration
+* Redis idempotency keys for exactly once processing
+* Transactional database consistency
+* Retry, DLQ & replayable streams
+
+**AI Layer**
+
+* Self hosted LLM via Ollama
+* Vector DB powered RAG analytics
+* Transaction intelligence & insights generation
+
+---
+
+# 🏆 Achievements
+
+* 750+ DSA problems solved
+* 1900+ LeetCode rating (Top ~4%)
+* Strong problem solving & system design skills
+
+---
+
+# 📊 GitHub Activity & Consistency
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hellovishal&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellovishal&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 LeetCode Consistency
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/hellovishal?theme=dark&font=Fira+Code&ext=heatmap"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+GitHub: [https://github.com/hellovishal](https://github.com/hellovishal)
+
+---
+
+> Building reliable systems > writing clever code
