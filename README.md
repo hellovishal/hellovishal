@@ -1,139 +1,198 @@
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ whoami
+
+Vishal Kumar
+
+Backend Engineer | Distributed Systems Enthusiast | AI Engineering Explorer
+
+```
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ cat about.txt
+
+Software Engineer @ UKG
+
+• Building production-grade Java microservices
+• Designing scalable distributed systems
+• Kafka • Redis • Spring Boot • OAuth2
+• Event Driven Architecture
+• CI/CD • Kubernetes
+• Exploring Agentic AI, RAG & MCP
+
+Passionate about writing systems that scale,
+remain observable, and survive production traffic.
+```
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ ls skills/
+
+Java
+Spring Boot
+Kafka
+Redis
+MySQL
+MongoDB
+Docker
+Kubernetes
+OAuth2
+Auth0
+OpenAM
+GitHub Actions
+Jenkins
+JUnit
+Mockito
+GCP
+REST APIs
+Microservices
+Distributed Systems
+LLMs
+RAG
+VectorDB
+MCP
+```
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ ps -ef
+
+PID     PROCESS
+1001    Building scalable backend systems
+1002    Designing event-driven architectures
+1003    Solving LeetCode problems
+1004    Learning distributed systems
+1005    Building AI agents
+1006    Reading system design papers
+1007    Drinking coffee ☕
+```
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ history
+
+✓ Built Authentication Platform (Auth0 + OpenAM)
+✓ Built Notification Microservice
+✓ Built Credential Management Platform
+✓ Built Cross Platform Bot Integrations
+✓ Built Distributed Transaction Intelligence Platform
+✓ Mentored Junior Developers
+✓ 99.9% Production Uptime
+✓ 80+ Production REST APIs
+```
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ achievements
+
+🏆 LeetCode Knight
+⭐ Peak Rating : 1900+
+🌍 Top 4% Globally
+💯 1000+ Problems Solved
+```
+
+---
+
+# Current Mission
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ echo $CURRENT_FOCUS
+
+Building production-ready AI Backend Systems
+
+Learning:
+
+• Multi-Agent Systems
+• Memory Architectures
+• Distributed AI
+• Kubernetes
+• System Design
+• LLM Infrastructure
+```
+
+---
+
+# Tech Stack
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=root@hellovishal:~$+whoami;Backend+Engineer;Java+SpringBoot+Specialist;Distributed+Systems+%7C+Kafka+%7C+Microservices;Python+%7C+GenAI+%7C+RAG+%7C+VectorDB" />
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,docker,kubernetes,git,github,linux,jenkins,gcp,cpp,python,vscode" />
+
 </p>
 
 ---
 
-# 🧠 About Me
-
-Backend Engineer specializing in **Java SpringBoot based distributed systems** with production experience building enterprise APIs, event‑driven microservices and AI powered workflows.
-
-I work at the intersection of **Scalable Backend Systems + LLM Applications** — designing reliable architectures and integrating AI into real business workflows.
-
-* 3+ Years Backend Engineering Experience
-* Experienced in AI Integration in Legacy Applications
-* Designed event‑driven microservices handling enterprise workflows
-* Integrated LLM powered automation and conversational systems
-
----
-
-# 🧰 Tech Stack
-
-## Languages
-
-Java • Python • JavaScript • C/C++ • HTML/CSS
-
-## Backend & Frameworks
-
-Spring Boot • FastAPI • NodeJS • REST APIs • Microservices • Apache Tomcat
-
-## Databases & Storage
-
-MySQL • MongoDB • Redis • Vector Databases
-
-## Distributed Systems & Architecture
-
-Kafka • Event Driven Architecture • Saga Pattern • Idempotency • Async Processing • Retry & DLQ Handling • Exactly Once Processing
-
-## AI / GenAI Engineering
-
-LLM Integration • RAG Pipelines • Conversational AI • NLU Workflows • Ollama • Claude LLM • Prompt Engineering
-
-## DevOps & Infrastructure
-
-Docker • Kubernetes • GCP • CI/CD Pipelines • GitHub Actions • Maven • Gradle
-
-## Observability & Tools
-
-Prometheus • Postman • Jira • LaunchDarkly • Pendo
-
-## Security & Auth
-
-Auth0 • OpenAM • OAuth • SSO • IAM
-
-## Engineering Practices
-
-SOLID Principles • OOP Design • Agile • SDLC • Code Reviews • System Design
-
----
-
-# 💼 Experience & Applied Projects
-
-## Software Engineer — Ultimate Kronos Group
-
-* Focus on Backend Engineering along with Distributed Systems Knowledge
-
----
-
-## Applied ML & Computer Vision Projects
-
-### OMR Automated Grading System
-
-* Automated evaluation of OMR answer sheets using image processing
-* Reduced manual grading effort and improved evaluation accuracy
-* Built detection pipeline for answer bubbles and scoring logic
-
-### Endometrial Cancer Detection (Hybrid Deep Learning Approach)
-
-* Medical image classification using transfer learning models
-* Combined feature extraction with hybrid classification pipeline
-* Improved diagnostic prediction performance using deep learning
-
----
-
-# 🚀 Notable Project — Distributed Transaction Intelligence Platform
-
-A fault tolerant transaction processing platform built using microservices and AI analytics.
-
-**Architecture Highlights**
-
-* Kafka based event streaming
-* Saga pattern orchestration
-* Redis idempotency keys for exactly once processing
-* Transactional database consistency
-* Retry, DLQ & replayable streams
-
-**AI Layer**
-
-* Self hosted LLM via Ollama
-* Vector DB powered RAG analytics
-* Transaction intelligence & insights generation
-
----
-
-# 🏆 Achievements
-
-* 750+ DSA problems solved
-* 1900+ LeetCode rating (Top ~4%)
-* Strong problem solving & system design skills
-
----
-
-# 📊 GitHub Activity & Consistency
+# GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hellovishal&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hellovishal&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hellovishal&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellovishal&theme=github-compact&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellovishal&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🧠 LeetCode Consistency
+# Contribution Graph
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/hellovishal?theme=dark&font=Fira+Code&ext=heatmap"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hellovishal&theme=github-compact"/>
+
 </p>
 
 ---
 
-# 🌐 Connect
+# Currently Exploring
 
-GitHub: [https://github.com/hellovishal](https://github.com/hellovishal)
+```text
+█████████████████████░░░░░  Java Backend
+
+████████████████████░░░░░░  Distributed Systems
+
+███████████████████░░░░░░░  Kafka Ecosystem
+
+██████████████████░░░░░░░░  Kubernetes
+
+████████████████░░░░░░░░░░  AI Agents
+
+███████████████░░░░░░░░░░░  MCP
+
+██████████████░░░░░░░░░░░░  RAG
+
+█████████████░░░░░░░░░░░░░  Memory Systems
+```
 
 ---
 
-> Building reliable systems > writing clever code
+# Connect
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ links
+
+GitHub    : https://github.com/hellovishal
+LeetCode  : https://leetcode.com/codewithvishal05
+Email      : rvrajvishalqwer@gmail.com
+LinkedIn   : [(Add your LinkedIn URL)](https://www.linkedin.com/in/vishal-kumar-r-644a101ba/)
+```
+
+---
+
+```bash
+┌──(vishal㉿backend)-[~/]
+└─$ exit
+
+Thanks for stopping by.
+
+Happy Coding :)
+```
